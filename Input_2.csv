@@ -1,0 +1,4 @@
+﻿Trade #,Nature,Reference entity / index name,Rating reference entity,Residual maturity,Base Currency,Notional (thousands),Position,Market value (thousands)
+1,Single-name CDS,Firm A,AA,3 years,USD,10000,Protection buyer,20
+2,Single-name CDS,Firm B,BBB,6 years,EUR,10000,Protection buyer,-40
+3,CDS index,CDX.IG 5y,Investment grade,5 years,USD,10000,Protection buyer,0
